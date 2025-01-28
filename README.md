@@ -25,7 +25,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderstormXX&layout=compact&theme=radical)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThunderstormXX)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anonymous User)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Projects
