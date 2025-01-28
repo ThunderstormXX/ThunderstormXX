@@ -25,7 +25,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderstormXX&layout=compact&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThunderstormXX)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThunderstormXX)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🚀 Projects
 1) [**Just Relax It**](https://github.com/intsystems/relaxit) - Implementation of different relaxation methods [BMM 24-25]  
