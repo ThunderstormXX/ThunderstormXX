@@ -5,9 +5,6 @@ Researcher, **Laboratory of Mathematical Optimization Methods, MIPT / ISP RAS / 
 
 **Research focus:** optimization methods, deep learning, variational inequalities, game theory, large language models, transport modeling
 
-<p align="center">
-  <img src="figs/Unknown-3.gif" alt="Schizo Dynamics" width="75%">
-</p>
 ---
 
 ## Publications
@@ -28,3 +25,9 @@ Researcher, **Laboratory of Mathematical Optimization Methods, MIPT / ISP RAS / 
 * [**Computational-mathematics**](https://github.com/ThunderstormXX/Computational-mathematics) – computational mathematics assignments
 * [**MLNotes**](https://github.com/ThunderstormXX/MLNotes) – notebooks on deep learning
 * [**MLFinance**](https://github.com/ThunderstormXX/MLFinance) – surrogate modeling of Black–Scholes with neural networks
+
+
+
+<p align="center">
+  <img src="figs/Unknown-3.gif" alt="Schizo Dynamics" width="75%">
+</p>
