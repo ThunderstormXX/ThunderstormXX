@@ -4,6 +4,7 @@ MSc student, **MIPT (FPMI)**, Department of Data Analysis
 Researcher, **Laboratory of Mathematical Optimization Methods, MIPT / ISP RAS / BRAIn Lab**
 
 **Research focus:** optimization methods, deep learning, variational inequalities, game theory, large language models, transport modeling
+![SGDiffusion](figs/Unknown-3.gif)
 
 ---
 
